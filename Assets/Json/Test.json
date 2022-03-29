@@ -1,0 +1,671 @@
+{
+    "code": 0,
+    "data": {
+        "admin": [],
+        "room": [{
+                "text": "晚上好",
+                "dm_type": 0,
+                "uid": 311516411,
+                "nickname": "滴水圣女果",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:33",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [
+                    16,
+                    "托马头",
+                    "老番茄",
+                    21852,
+                    12478086,
+                    "",
+                    0,
+                    12478086,
+                    12478086,
+                    12478086,
+                    0,
+                    1,
+                    546195
+                ],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    10,
+                    0,
+                    9868950,
+                    "\u003e50000"
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "-1284090696",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567593,
+                    "ct": "BE776C92"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "",
+                    "text": "",
+                    "perm": 0,
+                    "url": "",
+                    "in_player_area": 0,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 0,
+                    "width": 0
+                }
+            },
+            {
+                "text": "有点东西",
+                "dm_type": 1,
+                "uid": 485711,
+                "nickname": "KKSKimo",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:34",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [
+                    13,
+                    "泛团",
+                    "泛式",
+                    33989,
+                    12478086,
+                    "",
+                    0,
+                    12478086,
+                    12478086,
+                    12478086,
+                    0,
+                    1,
+                    63231
+                ],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    49,
+                    0,
+                    16746162,
+                    9193
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "1648567566",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567594,
+                    "ct": "BDC988A9"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "official_113",
+                    "text": "有点东西",
+                    "perm": 1,
+                    "url": "http://i0.hdslb.com/bfs/live/39e518474a3673c35245bf6ef8ebfff2c003fdc3.png",
+                    "in_player_area": 1,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 60,
+                    "width": 186
+                }
+            },
+            {
+                "text": "美人都是这么打啊欠的吗？",
+                "dm_type": 0,
+                "uid": 32065001,
+                "nickname": "看书使人明智",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:35",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [
+                    13,
+                    "刺儿",
+                    "逍遥散人",
+                    1017,
+                    12478086,
+                    "",
+                    0,
+                    12478086,
+                    12478086,
+                    12478086,
+                    0,
+                    1,
+                    168598
+                ],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    20,
+                    0,
+                    6406234,
+                    "\u003e50000"
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "-1878655190",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567595,
+                    "ct": "AC61AF19"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "",
+                    "text": "",
+                    "perm": 0,
+                    "url": "",
+                    "in_player_area": 0,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 0,
+                    "width": 0
+                }
+            },
+            {
+                "text": "新增一列",
+                "dm_type": 0,
+                "uid": 101637782,
+                "nickname": "虎牙伤金金",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:37",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [
+                    11,
+                    "雾宝冲",
+                    "中二雾",
+                    471528,
+                    9272486,
+                    "",
+                    0,
+                    9272486,
+                    9272486,
+                    9272486,
+                    0,
+                    1,
+                    8560508
+                ],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    15,
+                    0,
+                    6406234,
+                    "\u003e50000"
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "1500073743",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567597,
+                    "ct": "20FCA52F"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "",
+                    "text": "",
+                    "perm": 0,
+                    "url": "",
+                    "in_player_area": 0,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 0,
+                    "width": 0
+                }
+            },
+            {
+                "text": "大夫微微一笑",
+                "dm_type": 0,
+                "uid": 179474510,
+                "nickname": "失忆少女SaSa",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:39",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [
+                    2,
+                    "泛团",
+                    "泛式",
+                    33989,
+                    6067854,
+                    "",
+                    0,
+                    6067854,
+                    6067854,
+                    6067854,
+                    0,
+                    1,
+                    63231
+                ],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    2,
+                    0,
+                    9868950,
+                    "\u003e50000"
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "-1415466565",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567599,
+                    "ct": "AC39CC4C"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "",
+                    "text": "",
+                    "perm": 0,
+                    "url": "",
+                    "in_player_area": 0,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 0,
+                    "width": 0
+                }
+            },
+            {
+                "text": "落下病根了诶",
+                "dm_type": 0,
+                "uid": 142598558,
+                "nickname": "青街乌巷",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:41",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [
+                    2,
+                    "泛团",
+                    "泛式",
+                    33989,
+                    6067854,
+                    "",
+                    0,
+                    6067854,
+                    6067854,
+                    6067854,
+                    0,
+                    1,
+                    63231
+                ],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    1,
+                    0,
+                    9868950,
+                    "\u003e50000"
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "-1355233432",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567601,
+                    "ct": "E30786E5"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "",
+                    "text": "",
+                    "perm": 0,
+                    "url": "",
+                    "in_player_area": 0,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 0,
+                    "width": 0
+                }
+            },
+            {
+                "text": "不要贴贴 贴贴变密接",
+                "dm_type": 0,
+                "uid": 2861053,
+                "nickname": "cheer尽在不言中",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:42",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [
+                    11,
+                    "泛团",
+                    "泛式",
+                    33989,
+                    9272486,
+                    "",
+                    0,
+                    9272486,
+                    9272486,
+                    9272486,
+                    0,
+                    1,
+                    63231
+                ],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    6,
+                    0,
+                    9868950,
+                    "\u003e50000"
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "114003957",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567602,
+                    "ct": "6CC74360"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "",
+                    "text": "",
+                    "perm": 0,
+                    "url": "",
+                    "in_player_area": 0,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 0,
+                    "width": 0
+                }
+            },
+            {
+                "text": "丫鬟看病都这么将就啊",
+                "dm_type": 0,
+                "uid": 4998726,
+                "nickname": "大河与樱花",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:45",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    4,
+                    0,
+                    9868950,
+                    "\u003e50000"
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "-1878385446",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567605,
+                    "ct": "E7789236"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "",
+                    "text": "",
+                    "perm": 0,
+                    "url": "",
+                    "in_player_area": 0,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 0,
+                    "width": 0
+                }
+            },
+            {
+                "text": "那时候可没有抗生素什么的",
+                "dm_type": 0,
+                "uid": 592713854,
+                "nickname": "努力减肥中的花儿呀",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:48",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [
+                    8,
+                    "泛团",
+                    "泛式",
+                    33989,
+                    6126494,
+                    "",
+                    0,
+                    6126494,
+                    6126494,
+                    6126494,
+                    0,
+                    1,
+                    63231
+                ],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    11,
+                    0,
+                    6406234,
+                    "\u003e50000"
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "2129850696",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567608,
+                    "ct": "8F2A8289"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "",
+                    "text": "",
+                    "perm": 0,
+                    "url": "",
+                    "in_player_area": 0,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 0,
+                    "width": 0
+                }
+            },
+            {
+                "text": "吉祥码还绿着吗哈哈哈哈",
+                "dm_type": 0,
+                "uid": 1023691017,
+                "nickname": "谁动了我的小鱼饼干",
+                "uname_color": "",
+                "timeline": "2022-03-29 23:26:48",
+                "isadmin": 0,
+                "vip": 0,
+                "svip": 0,
+                "medal": [],
+                "title": [
+                    "",
+                    ""
+                ],
+                "user_level": [
+                    0,
+                    0,
+                    9868950,
+                    "\u003e50000"
+                ],
+                "rank": 10000,
+                "teamid": 0,
+                "rnd": "703361572",
+                "user_title": "",
+                "guard_level": 0,
+                "bubble": 0,
+                "bubble_color": "",
+                "lpl": 0,
+                "yeah_space_url": "",
+                "jump_to_url": "",
+                "check_info": {
+                    "ts": 1648567608,
+                    "ct": "C3C58A4A"
+                },
+                "voice_dm_info": {
+                    "voice_url": "",
+                    "file_format": "",
+                    "text": "",
+                    "file_duration": 0,
+                    "file_id": ""
+                },
+                "emoticon": {
+                    "id": 0,
+                    "emoticon_unique": "",
+                    "text": "",
+                    "perm": 0,
+                    "url": "",
+                    "in_player_area": 0,
+                    "bulge_display": 0,
+                    "is_dynamic": 0,
+                    "height": 0,
+                    "width": 0
+                }
+            }
+        ]
+    },
+    "message": "",
+    "msg": ""
+}
