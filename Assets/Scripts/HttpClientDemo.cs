@@ -8,10 +8,12 @@ using SimpleHttpFramework.Client;
 
 public class HttpClientDemo : MonoBehaviour
 {
+    [Header("B站直播房间号")]
+    public int RoomId;
     private SimpleClient Client = new SimpleClient();
 
     async void Start()
     {
-        await Client.BeginNetwork();
+        bool isConnent = await Client.PrepareRoomState(RoomId);
     }
 }
