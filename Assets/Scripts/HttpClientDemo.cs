@@ -1,19 +1,54 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.IO;
-using System.Net.Http;
 using System.Threading.Tasks;
 using UnityEngine;
-using SimpleHttpFramework.Client;
+using UnityEngine.UI;
+using NetClient.Client;
 
 public class HttpClientDemo : MonoBehaviour
 {
-    [Header("B站直播房间号")]
-    public int RoomId;
+    public InputField LiveRoomIdInput;
+
+    private int RoomId;
     private SimpleClient Client = new SimpleClient();
 
-    async void Start()
+    async void Connect()
     {
-        bool isConnent = await Client.PrepareRoomState(RoomId);
+        bool isConnent = await Client.PrepareRoomInfo(RoomId);
+        if (isConnent)
+        {
+            Client.StartConnect();
+        }
+    }
+
+    public void GetConnect()
+    {
+        if(LiveRoomIdInput != null)
+        {
+            if (string.IsNullOrEmpty(LiveRoomIdInput.text))
+            {
+                Debug.LogError("请输入正确的RoomId！");
+            }
+            else
+            {
+                RoomId = int.Parse(LiveRoomIdInput.text);
+                Connect();
+            }
+        }
+    }
+
+    public void CloseConnect()
+    {
+        if (Client.Connecting)
+        {
+            Client.CloseConnect();
+            Debug.LogWarning("链接已关闭");
+        }
+    }
+
+    private void OnDestroy()
+    {
+        CloseConnect();
     }
 }

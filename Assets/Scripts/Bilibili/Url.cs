@@ -1,6 +1,6 @@
 ﻿namespace Bilibili.Url
 {
-    public class BUrl
+    public class BilibiliUrl
     {
         /// <summary>
         /// 直播房间基础路径

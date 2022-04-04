@@ -3,7 +3,7 @@ using System.Runtime.Serialization.Json;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace SimpleHttpFramework.Utils
+namespace NetClient.Utils
 {
     public class CSJsonUtils
     {
